@@ -1,0 +1,6 @@
+node_modules
+dist
+e2e/out
+e2e/*.webm
+e2e/*.mp4
+e2e/test-*.json
